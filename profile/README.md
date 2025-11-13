@@ -1,4 +1,4 @@
-<!--- todo: colocar el readme
+<!--- todo: colocar el banner
 <p align="center">
   <img src="URL" alt="ByteProgramming" width="700"/>
 </p>
@@ -6,10 +6,11 @@
 <h1 align="center">Bienvenidos a ByteProgramming</h1>
 
 <p align="center">
-  <a href="ENLACE_A_LA_PAGINA_DE_LA_UNIVERSIDAD">
+  <a href="https://www.escuelaing.edu.co">
     <img src="https://img.shields.io/badge/Universidad-ECI-red?style=for-the-badge&labelColor=white" alt="Escuela Colombiana de Ingeniería">
   </a>
-  </p>
+  
+</p>
 
 <br>
 
